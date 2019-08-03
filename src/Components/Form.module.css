@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Farro&display=swap');
+.form{
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: 'Farro', sans-serif;
+}
